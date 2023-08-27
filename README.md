@@ -10,5 +10,7 @@ https://sheetalchaudhary16.github.io/AmazonClone/
 
 # Technologies:
 HTML
+
 CSS
+
 IDE:VSCODE
